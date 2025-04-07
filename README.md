@@ -1,1 +1,1 @@
-# Reseach_Paper_recommendation
+Implement an intelligent research paper recommendation engine and subject classifier using NLP techniques, TF-IDF, and deep learning (TensorFlow & Keras), enabling accurate multi-label predictions and context-aware paper suggestions from academic abstracts.
